@@ -14,6 +14,7 @@
 		024C269B29A15068002F94F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 024C269A29A15068002F94F1 /* Assets.xcassets */; };
 		024C269E29A15068002F94F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 024C269C29A15068002F94F1 /* LaunchScreen.storyboard */; };
 		029F3F2529A156F200CC16FD /* CommitFile1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029F3F2429A156F200CC16FD /* CommitFile1.swift */; };
+		029F3F2729A1576F00CC16FD /* CommitFile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029F3F2629A1576F00CC16FD /* CommitFile2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		024C269D29A15068002F94F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		024C269F29A15068002F94F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		029F3F2429A156F200CC16FD /* CommitFile1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommitFile1.swift; sourceTree = "<group>"; };
+		029F3F2629A1576F00CC16FD /* CommitFile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommitFile2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				024C269329A15067002F94F1 /* SceneDelegate.swift */,
 				024C269529A15067002F94F1 /* ViewController.swift */,
 				029F3F2429A156F200CC16FD /* CommitFile1.swift */,
+				029F3F2629A1576F00CC16FD /* CommitFile2.swift */,
 				024C269729A15067002F94F1 /* Main.storyboard */,
 				024C269A29A15068002F94F1 /* Assets.xcassets */,
 				024C269C29A15068002F94F1 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				024C269229A15067002F94F1 /* AppDelegate.swift in Sources */,
 				029F3F2529A156F200CC16FD /* CommitFile1.swift in Sources */,
 				024C269429A15067002F94F1 /* SceneDelegate.swift in Sources */,
+				029F3F2729A1576F00CC16FD /* CommitFile2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
